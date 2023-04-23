@@ -10,3 +10,5 @@ Task description and prompts in the eli5 format. But use 12 or so
 Add local ppanning step in solver
 
 Tell it that looking at file means iterating over it
+
+Split function dissolves main task. Maybe call function tgar creates result description when all child's done
