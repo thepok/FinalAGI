@@ -130,3 +130,7 @@ dmypy.json
 
 #cache files
 .langchain.db
+
+dump/
+
+.vscode/
