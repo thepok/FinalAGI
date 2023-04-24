@@ -5,6 +5,15 @@ At the Moment development is in a jupiter file named ProtoOne.
 The Agent is based on a more sophisticated Task Pool concept. The Tasks are connected in a Graph. There a Parent and Child Tasks...
 more info in the notebook
 
+## Planned Phases
+### Heavy guided phase
+Agent recives guidens by human user in planning and execution phase
+### Light guiding
+Agent only recives guidence in the planning phase
+### full autonomy
+Agent searches autonome to improvments of his problemsolving capapilities and tests them
+
+
 ## Ideas and TODOs
 Allways perform a langchsin compress retriever step over available information.
 
