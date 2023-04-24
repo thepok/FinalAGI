@@ -8,3 +8,12 @@ Compress->select tools->think->improve->act commands->describe current state
 Task description and prompts in the eli5 format. But use 12 or so
 
 Add curent list of fils allways in problem solver promp with their stats like pagecount
+
+Add local CoT and reflection step in solver
+
+Tell it that looking at file means iterating over it
+
+Split function dissolves main task. Maybe call function that creates result description when all child's done
+
+
+Add curent list of fils allways in problem solver promp with their stats like pagecount
