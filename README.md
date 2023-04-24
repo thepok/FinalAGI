@@ -44,5 +44,7 @@ agent needs a portfolio of suggested workflows that help to handle the small con
 
 remove oldest messages when contextwindow gets full in task solver
 
+Tell the Tasksolver how much Context s used, and if hes in danger, to loose context
+
 ## Problems
 It "copies" a file but halucinates extra contend into it 
