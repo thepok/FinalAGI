@@ -135,3 +135,5 @@ dump/
 
 .vscode/
 cache.db
+
+/input
