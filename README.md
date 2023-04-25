@@ -48,10 +48,6 @@ Tell the Tasksolver how much Context s used, and if hes in danger, to loose cont
 
 add the scratchpad to the solver function
 ## Problems
-Subtasks are replacement for maintask...maintask needs to be marked solved, when all subtasks solved
-
 The agent gets distracted when he can send comands. make  better signal, that its time to send command
-
-Not enough of the context is freeed, and so the textgeneration sometimes stops befor a comand or CoT is finished
 
 It "copies" a file but halucinates extra contend into it 
