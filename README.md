@@ -48,6 +48,9 @@ Tell the Tasksolver how much Context s used, and if hes in danger, to loose cont
 
 add the scratchpad to the solver function
 ## Problems
+Let the File Operations return better error messages and tipps.
+
 The agent gets distracted when he can send comands. make  better signal, that its time to send command
 
 It "copies" a file but halucinates extra contend into it 
+
